@@ -1,0 +1,30 @@
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client.csprojResolveAssemblyReference.cache
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\MainWindow.g.cs
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\App.g.cs
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client_MarkupCompile.cache
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client_MarkupCompile.lref
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\bin\Debug\UDP Client.exe.config
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\bin\Debug\UDP Client.exe
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\bin\Debug\UDP Client.pdb
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\MainWindow.baml
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client.g.resources
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP_Client.Properties.Resources.resources
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client.csproj.GenerateResource.Cache
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client.csproj.CoreCompileInputs.cache
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client.exe
+c:\users\jefitzge\source\repos\UDP Client\UDP Client\obj\Debug\UDP Client.pdb
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\bin\Debug\UDP Client.exe.config
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\bin\Debug\UDP Client.exe
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\bin\Debug\UDP Client.pdb
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client.csprojResolveAssemblyReference.cache
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\MainWindow.g.cs
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\App.g.cs
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client_MarkupCompile.cache
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client_MarkupCompile.lref
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\MainWindow.baml
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client.g.resources
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP_Client.Properties.Resources.resources
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client.csproj.GenerateResource.Cache
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client.csproj.CoreCompileInputs.cache
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client.exe
+H:\Apps-SU\C#\Week 11\UDP Client\UDP Client\obj\Debug\UDP Client.pdb

@@ -1,0 +1,29 @@
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\bin\Debug\UDP Server.exe.config
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\bin\Debug\UDP Server.exe
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\bin\Debug\UDP Server.pdb
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\MainWindow.g.cs
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\App.g.cs
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server_MarkupCompile.cache
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server_MarkupCompile.lref
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\MainWindow.baml
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server.g.resources
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP_Server.Properties.Resources.resources
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server.csproj.GenerateResource.Cache
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server.csproj.CoreCompileInputs.cache
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server.exe
+c:\users\jefitzge\source\repos\UDP Server\UDP Server\obj\Debug\UDP Server.pdb
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\bin\Debug\UDP Server.exe.config
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\bin\Debug\UDP Server.exe
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\bin\Debug\UDP Server.pdb
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server.csprojResolveAssemblyReference.cache
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\MainWindow.g.cs
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\App.g.cs
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server_MarkupCompile.cache
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server_MarkupCompile.lref
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\MainWindow.baml
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server.g.resources
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP_Server.Properties.Resources.resources
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server.csproj.GenerateResource.Cache
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server.csproj.CoreCompileInputs.cache
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server.exe
+H:\Apps-SU\C#\Week 11\UDP Server\UDP Server\obj\Debug\UDP Server.pdb
